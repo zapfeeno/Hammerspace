@@ -1,3 +1,3 @@
 # MKitchen
  
-My solo game dev project using Unity.  Developing for fun!
+Solo game dev project using Unity.  Developing for fun!
