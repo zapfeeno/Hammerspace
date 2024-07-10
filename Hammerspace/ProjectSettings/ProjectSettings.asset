@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 9d56fcc916eeb3d4ab679161932a214d
+  productGUID: 924261645dbc5a043b3dd1345b19f173
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MKitchenGame
+  productName: Hammerspace
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -721,14 +721,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: MKitchenGame
+  metroPackageName: Hammerspace
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: MKitchenGame
+  metroApplicationDescription: Hammerspace
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -796,10 +796,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 239fa365-d73f-41e4-8244-de3ea70c49cd
+  cloudProjectId: 7565c461-3540-42e2-871b-1c09c0cda1e6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: MKitchenGame
+  projectName: Hammerspace
   organizationId: wpw2703
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
